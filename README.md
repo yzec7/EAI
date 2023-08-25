@@ -1,20 +1,32 @@
-# EAI
-Er Chang's EAI open source warehouse.
+# EAI Apps
+Our website
 
-Er Chang EAI has started development in August 2023, and the release time is undecided!
+http://64d04deda1db2.site123.me/ 
 
-We have pre-developed version 1.0 of EAI on the WeChat Open Platform for Dialogue, but there are some functional flaws.
+Version 1.0.0 is coming soon!
+# EAI 应用
+我们的网站 
 
-Of course we also have our website, because we don't have a domain name yet, it has been hosted on SITE123 and Fanke.
+http://64d04deda1db2.site123.me/ 
 
-However, we chose SITE123 to develop the website.
+1.0.0版本即将推出！
+# EAI アプリ 
+私たちのウェブサイト 
 
-In addition, considering the network firewall restrictions of users in mainland China and Iran, we have specially prepared a free and practical VPN airport!
+http://64d04deda1db2.site123.me/ 
 
-This VPN Airport URL:ikuuu.art
+バージョン 1.0.0 が近日公開されます。
+# EAI 應用程序 
+我們的網站 
 
-In addition, I have prepared two AI navigation stations:
-ai-bot.cn
-duodaai.com
+http://64d04deda1db2.site123.me/ 
 
-I will upload the software to the Github warehouse later!
+1.0.0版本即將推出！
+# EAI 앱 
+우리 웹사이트 
+
+http://64d04deda1db2.site123.me/ 
+
+버전 1.0.0이 곧 출시됩니다!
+
+by ecyz7
