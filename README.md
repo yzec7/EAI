@@ -36,7 +36,13 @@ by yzec7
 
 此VPN机场网址：ikuuu.art 
 
-另外，我还准备了两个AI导航站： 爱机器人网 多爱网 稍后我会把软件上传到Github仓库！ 
+另外，我还准备了两个AI导航站： 
+
+ai-bot.cn
+
+duodaai.com
+
+稍后我会把软件上传到Github仓库！ 
 # 软件存储库 
 
 https://github.com/yzec7/EAI/tree/EAI-apps 
