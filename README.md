@@ -18,5 +18,3 @@ ai-bot.cn
 duodaai.com
 
 I will upload the software to the Github warehouse later!
-
-by yzec7
