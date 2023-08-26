@@ -1,32 +1,4 @@
-# EAI Apps
-Our website
+# Version 1.0.0 of Bus Gallery has been released!
+Due to limitations of imagica, only English is currently supported. However, our gallery is similar to midjourney, that is, the probability of everyone getting the same picture is only 5%, and only bus pictures can be generated! In addition, I will improve the software, thanks to the existence and support of imagica and fusionapp!
 
-http://64d04deda1db2.site123.me/ 
-
-Version 1.0.0 is coming soon!
-# EAI 应用
-我们的网站 
-
-http://64d04deda1db2.site123.me/ 
-
-1.0.0版本即将推出！
-# EAI アプリ 
-私たちのウェブサイト 
-
-http://64d04deda1db2.site123.me/ 
-
-バージョン 1.0.0 が近日公開されます。
-# EAI 應用程序 
-我們的網站 
-
-http://64d04deda1db2.site123.me/ 
-
-1.0.0版本即將推出！
-# EAI 앱 
-우리 웹사이트 
-
-http://64d04deda1db2.site123.me/ 
-
-버전 1.0.0이 곧 출시됩니다!
-
-by ecyz7
+by yzec7
