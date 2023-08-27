@@ -28,5 +28,7 @@ http://64d04deda1db2.site123.me/
 http://64d04deda1db2.site123.me/ 
 
 버전 1.0.0이 곧 출시됩니다!
+# 巴士画廊
+https://github.com/yzec7/EAI/tree/Bus_Gallery
 
 by ecyz7
