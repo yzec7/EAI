@@ -1,3 +1,5 @@
+# Mega link download
+https://mega.nz/folder/4vQmQZqa#ptzkOuyjaMv8Sw_m1RoHwg
 # The latest version 1.1.0 of Bus Gallery is now released!
 Please download it in our code repository file
 # Version 1.0.0 of Bus Gallery has been released!
