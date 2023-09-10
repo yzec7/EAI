@@ -1,3 +1,5 @@
+# EAI官方网站
+https://eai.art.blog
 # EAI
 Er Chang's EAI open source warehouse.
 
